@@ -65,13 +65,12 @@ Currently in Phase 1 — beating WC3 Insane AI consistently with the Orc race.
 - [ ] Blademaster micro loop
 - [ ] Win rate ≥ 7/10 vs Insane AI
 
-## YouTube
+## Follow
 
-Development documented on **[@GrimForgeBot](https://youtube.com/@GrimForgeBot)** — every session recorded, every failure logged.
-
-## Support
-
-[Ko-fi](https://ko-fi.com/grimforge) — keeps the forge burning.
+| | |
+|---|---|
+| 📺 YouTube | [@GrimForgeBot](https://youtube.com/@GrimForgeBot) — every session recorded, every failure logged |
+| 🔥 Ko-fi | [ko-fi.com/grimforge](https://ko-fi.com/grimforge) — keeps the forge burning |
 
 ## License
 
