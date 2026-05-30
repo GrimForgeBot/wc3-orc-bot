@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.so
+.DS_Store
+.env
+.secrets/
+recordings/
+tools/shorts_pipeline/assets/
+*.mkv
+*.mp4
+*.mp3
+*.log
